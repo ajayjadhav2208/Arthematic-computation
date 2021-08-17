@@ -1,3 +1,5 @@
 #!/bin/bash -x
 	
-echo " Welcome to the arthematicComputation "
+echo " Enter the value of a,b and c : "
+read a b c
+echo $a $b $c
